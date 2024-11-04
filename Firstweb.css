@@ -55,30 +55,30 @@ header {
 @keyframes section1Div {
     0% {
 
-        left: 950px;
+        left: 940px;
         right: 0px;
     }
 
     25% {
 
         left: 0px;
-        right: 700px;
+        right: 580px;
     }
 
     50% {
 
-        left: 950px;
+        left: 940px;
         right: 0px;
     }
 
     70% {
 
         left: 0px;
-        right: 700px;
+        right: 580px;
     }
 
     100% {
-        left: 950px;
+        left: 940px;
         right: 0px;
     }
 
